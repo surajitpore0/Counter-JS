@@ -1,6 +1,6 @@
 # Counter
 
-### Check it out [here](surajitpore0.github.io/counter-js/)
+### Check it out [here](https://surajitpore0.github.io/Counter-JS/)
 
 <img src = "https://forthebadge.com/images/badges/made-with-javascript.svg">
 
